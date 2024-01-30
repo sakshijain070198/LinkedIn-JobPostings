@@ -1,0 +1,63 @@
+job_postings
+{
+	"job_id" : "job_id",
+	"company_id" : "company_id",
+	"title" : "title",
+	"description" : "description",
+	"max_salary" : "max_salary",
+	"med_salary" : "med_salary",
+	"min_salary" : "min_salary",
+	"pay_period" : "pay_period",
+	"formatted_work_type" : "formatted_work_type",
+	"location" : "location",
+	"applies" : "applies",
+	"original_listed_time" : "original_listed_time",
+	"remote_allowed" : "remote_allowed",
+	"views" : "views",
+	"job_posting_url": "job_posting_url",
+	"application_url" : "application_url",
+	"application_type" : "application_type",
+	"expiry" : "expiry",
+	"closed_time" : "closed_time",
+	"formatted_level_experience" : "formatted_level_experience",
+	"skills_desc" : "skills_desc",
+	"listed_time" : "listed_time",
+	"posting_domain" : "posting_domain",
+	"sponsored" : "sponsored",
+	"work_type" : "work_type",
+	"currency" : "currency",
+	"compensation_type" : "compensation_type",
+	"listed_time_ts" : "listed_time_ts",
+	"expiry_ts" : "expiry_ts",
+	"closed_time_ts" : "closed_time_ts",
+	"benefits" : ["benefits"],
+	"inferred" : ["inferred"],
+	"industry_id": ["industry_ids"],
+	"skill_abr" : ["skill_abrs"]
+}
+
+companies
+{
+	"company_id" : "company_id",
+	"company_name" : "company_name",
+	"description" : "description",
+	"company_size" : "company_size",
+	"state" : "state",
+	"country" :"country",
+	"city" : "city",
+	"zip_code" : "zip_code",
+	"address" : "address",
+	"url" : "url",
+	"industry" : ["industries"],
+	"speciality" : ["specialities"]
+}
+
+empolyee_counts
+{
+	"company_id" : "company_id",
+	"empolyee_count" : "employee_count",
+	"follower_count" : "follower_count",
+	"time_recorded" : "time_recorded",
+	"time_recorded_ts" : "time_recorded_ts",
+	"date_recorded" : "date_recorded"
+}
