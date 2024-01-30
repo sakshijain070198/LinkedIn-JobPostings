@@ -13,7 +13,7 @@ Welcome to the LinkedIn Job Posting Analysis project! This repository contains c
 - `Connection\AWSConnection.ipynb`: Jupyter Notebook for connecting to AWS
 - `OutputFiles`: Zip file with clean CSV's data after preprocessing
 
-## File Structure for SQLSolution
+## File Structure for NoSQLSolution
 - `PreProcessing\DB_NoSQL_Linkedin_dataset_preprocessing.ipynb`: Jupyter Notebook for data preprocessing
 - `Schema\Denormalization.pdf`: Denormalizing entities in LinkedIn Job postings dataset
 - `Schema\LinkedIn_JobPostings_MongoDB_Schema`: Entity Relationship Diagram in MongoDB database
