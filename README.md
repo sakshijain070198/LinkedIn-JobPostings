@@ -38,7 +38,7 @@ For performance testing using JMeter and AWS, please refer to the following file
 - Anshul Yadav , Sakshi Jain, Shreya Sree Matta, Veena Ramesh Beknal
 
 ## Contact Information
-Veenaramesh.beknal@sjsu.edu
+- Sakshi Jain: sakshijain070198@gmail.com
 
 References links:
 https://www.mongodb.com/docs/atlas/
